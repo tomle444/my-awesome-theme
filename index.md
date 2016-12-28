@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<p>This is index.md (.md stands for 'mark down')</p>
+<p>This is index.md (.md stands for 'mark down') </p>
